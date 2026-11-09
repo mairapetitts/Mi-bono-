@@ -1,3 +1,4 @@
 Mi Bono V2.9 — versión genérica.
 Subir todos estos archivos al proyecto EXISTENTE mibono en Vercel, conservando el mismo dominio https://mibono.vercel.app.
 Ningún dato personal incluido. Historial guardado en localStorage del navegador por origen. Antes de actualizar: exportar JSON en cada dispositivo. Tras actualizar: verificar el historial y el porcentaje express al 30%. Cada usuario configura sus propios tiempos en Configuración.
+Actualización Mi Bono V2.9 - noviembre 2026
